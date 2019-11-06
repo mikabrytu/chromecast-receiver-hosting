@@ -1,0 +1,9 @@
+.background {
+  background: center no-repeat url(background.jpg);
+}
+
+.logo {
+  background-image: url(logo.png);
+  width: 512px;
+  height: 512px;
+}
